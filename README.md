@@ -51,7 +51,7 @@ Of course! Nothing would make me happier than you using or adapting a Projectee 
 
 ## What if i don't like how the Projectee templates are construsted?
 
-Well in that can you can just go take a long walk off a short ... i mean that is fine. Not everyone is going to like the Projectee templates. I forgive you in advance, you're welcome.
+Well in that case you can just go and take a long walk off a short ... i mean that is fine. Not everyone is going to like the Projectee templates. I forgive you in advance, you're welcome.
 
 ## Why use Projectee templates?
 
