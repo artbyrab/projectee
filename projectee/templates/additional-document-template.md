@@ -9,22 +9,17 @@ Individual Sections
 -------------------
 If required please complete the following sections.
 
----
 ### Overview
 *provide an overview of the project.*
 
----
 ### Additional Information
 
----
 #### Item
 *Additional Item notes here.*
 
----
 #### Item
 *Additional Item notes here.*
 
----
 Resources
 ---------
 *please list any relevant resources to this project.
